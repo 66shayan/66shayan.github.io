@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Post with social share icons
+title:  New Test Post
 date:   2021-11-28 12:04:50 +0100
-author: Desired Persona
+author: Shayan Tawabi
 category_tag_list: false
 categories:
   - social icons
