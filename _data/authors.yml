@@ -2,7 +2,7 @@
 
 Desired Persona:
   name          : "Shayan Tawabi"
-  picture       : "/assets/images/author.jpg"
+  picture       : "https://desiredpersona.github.io/minimal-jekyll-theme/assets/images/author.jpg"
   url           : "https://66shayan.github.io/about/"
   email         : "sixtysix(in numbers)+Shayan+@+Gmail.com"
   bio           : "Marketing and Digital Guy!"
@@ -16,7 +16,7 @@ Desired Persona:
 
 Joe Bloggs:
   name          : "Shayan Bloggs"
-  picture       : "/assets/images/author-2.png"
+  picture       : "https://desiredpersona.github.io/minimal-jekyll-theme/assets/images/author-2.png"
   url           : "http://example.com"
   email         : "joebloggs458@gmail.com"
   bio           : "This is a long bio that only appears under a blog post"
