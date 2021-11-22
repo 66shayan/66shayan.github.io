@@ -21,7 +21,7 @@ theme: minimal-jekyll-theme
 title: "Hey I am Shayan!"
 email: "sixtysix(in numbers)+Shayan+@+Gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-"Hey There! I am Shayan Tawabi. I am a Marketing Director and a Digital Guy.
+Hey There! I am Shayan Tawabi. I am a Marketing Director and a Digital Guy.
 I talk about Digital, Marketing and Business in my Blog."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
