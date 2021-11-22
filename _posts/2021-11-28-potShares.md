@@ -6,6 +6,7 @@ author: Shayan Tawabi
 category_tag_list: false
 categories:
   - marketing
+share_icons: true
 ---
 
 Add `share_icons: true` in any posts YAML front-matter to enable the author bio after posts.
