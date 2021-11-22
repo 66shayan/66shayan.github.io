@@ -35,9 +35,6 @@ theme: minima
 ################################
 # Theme Settings
 ################################
-theme       : minimal-jekyll-theme
-permalink   : /:title/
-
 collections:
   docs:
     output: true
@@ -106,10 +103,6 @@ sass:
 # Include/Exclude filetypes
 include:
   - _pages
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 # Disqus Comments
 disqus:
