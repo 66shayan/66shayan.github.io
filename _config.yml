@@ -1,3 +1,4 @@
-theme: minimal-jekyll-theme
 title: Shayan's Blog
 description: Let's Talk Marketing and Digital!
+theme       : minimal-jekyll-theme
+permalink   : /:title/
