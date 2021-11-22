@@ -76,6 +76,7 @@ share_icons       : true # Show post social sharing icons
 category_tag_list : true # Show post categories & tags
 
 # Share Icons
+share_icons:      : true
 twitter_icon      : true
 facebook_icon     : true
 google_plus_icon  : true
