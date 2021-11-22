@@ -128,6 +128,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
+  - jekyll-paginate
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-gist
 
 # Jekyll SEO Tag Settings https://github.com/jekyll/jekyll-seo-tag
 social:
