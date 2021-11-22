@@ -10,7 +10,7 @@ navigation:
     url: /about/
 
   - title: Blog
-    url: /blog/
+    url: /archive/
 
   - title: Contact
     url: mailto:you@example.com
