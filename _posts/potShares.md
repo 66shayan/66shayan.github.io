@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  New Test Post
+title:  Hello!
 date:   2021-11-28 12:04:50 +0100
 author: Shayan Tawabi
 category_tag_list: false
 categories:
-  - social icons
+  - marketing
 ---
 
 Add `share_icons: true` in any posts YAML front-matter to enable the author bio after posts.
