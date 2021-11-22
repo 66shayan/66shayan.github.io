@@ -33,21 +33,6 @@ github_username:  jekyll
 theme: minima
 
 ################################
-# Site Settings
-################################
-lang        : "en"
-logo        :
-title       : Minimal Theme
-description : Your awesome site
-author      : Desired Persona
-email       : your-email@domain.com
-baseurl     : "" # the subpath of your site, e.g. /blog
-url         : ""
-date_format : "%-d %b %Y"
-port        : 4000
-
-
-################################
 # Theme Settings
 ################################
 theme       : minimal-jekyll-theme
