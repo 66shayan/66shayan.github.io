@@ -1,21 +1,21 @@
 # Authors
 
 Desired Persona:
-  name          : "Desired Persona"
+  name          : "Shayan"
   picture       : "/assets/images/author.jpg"
-  url           : "https://desiredpersona.com/about/"
-  email         : "hello@desiredpersona.com"
-  bio           : "Affiliate marketer. Media buyer. Developer."
-  post_meta_bio : "Affiliate marketer. Media buyer. Developer."
+  url           : "https://66shayan.github.io/about/"
+  email         : "sixtysix(in numbers)+Shayan+@+Gmail.com"
+  bio           : "Marketing and Digital Guy!"
+  post_meta_bio : "Marketing and Digital Guy Here!"
   cta           : "Follow"
-  cta_url       : "https://twitter.com/desiredpersona"
-  twitter       : "desiredpersona"
-  google_plus   : "DesiredPersona"
-  facebook      : "desiredpersona"
+  cta_url       : "https://twitter.com/ShayanTawabi"
+  twitter       : "ShayanTawabi"
+  google_plus   : "ShayanTawabi"
+  facebook      : "ShayanTawabi"
 
 
 Joe Bloggs:
-  name          : "Joe Bloggs"
+  name          : "Shayan Bloggs"
   picture       : "/assets/images/author-2.png"
   url           : "http://example.com"
   email         : "joebloggs458@gmail.com"
