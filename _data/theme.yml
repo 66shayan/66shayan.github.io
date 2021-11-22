@@ -4,7 +4,7 @@
 navigation:
   main:
   - title: Home
-    url: https://66shayan.github.io/
+    url: /
 
   - title: About
     url: /about/
@@ -22,38 +22,6 @@ navigation:
 
   - title: terms
     url: /terms/
-
-
-  docs:
-  - title: Introduction
-    url: /docs/
-    
-  - title: Install
-    url: /docs/install-theme/
-
-  - title: Layouts
-    url: /docs/theme-layouts/
-  
-  - title: UI-Text
-    url: /docs/ui-text/
-
-  - title: Authors
-    url: /docs/authors/
-
-  - title: Navigation
-    url: /docs/navigation/
-
-  - title: Posts
-    url: /docs/post-layouts/
-
-  - title: Pages
-    url: /docs/page-layouts/
-
-  - title: Collections
-    url: /docs/collections/
-  
-  - title: Markdown
-    url: /docs/markdown/
 
 
 ################################
