@@ -71,7 +71,7 @@ text:
   blog_limit	      : 10               # Show this many post on the blog
   read_more         : Read more        # Read more link
   blog_title        : All Posts        # Archives link title
-  blog_url          : /blog/           # Archive link url for home.html and 404 page layouts
+  blog_url          : /archive/           # Archive link url for home.html and 404 page layouts
   copyright         : 2015	           # The from year in the copyright. The current year is updated automatically.
 
 # UI Default Settings
@@ -129,14 +129,14 @@ plugins:
 
 # Jekyll SEO Tag Settings https://github.com/jekyll/jekyll-seo-tag
 social:
-  name: Joe Bloggs
+  name: Shayan Tawabi
   links:
-    - https://twitter.com/username
-    - https://plus.google.com/u/0/+username
-    - https://www.facebook.com/username
+    - https://twitter.com/ShayanTawabi
+    - https://plus.google.com/u/0/+ShayanTawabi
+    - https://www.facebook.com/ShayanTawabi
 
 twitter:
-  username: Joe Bloggs
+  username: Shayan Tawabi
 
 facebook:
   app_id:
