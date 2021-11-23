@@ -72,7 +72,7 @@ text:
   read_more         : Read more        # Read more link
   blog_title        : All Posts        # Archives link title
   blog_url          : /archive/           # Archive link url for home.html and 404 page layouts
-  copyright         : 2015	           # The from year in the copyright. The current year is updated automatically.
+  copyright         : 2021	           # The from year in the copyright. The current year is updated automatically.
 
 # UI Default Settings
 author_bio          : true             # Show author bio
@@ -102,7 +102,7 @@ include:
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname: 66shayan
+  shortname: 66shayan.disqus.com
 
 # Theme Attribution Link (Optional)
 # Setting this to false will remove the attribution link from the themes footer.
