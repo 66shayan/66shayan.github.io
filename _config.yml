@@ -47,6 +47,9 @@ header_navigation:
 
   - title: Blog
     url: /archive/
+    
+  - title: About
+    url: /about/
 
   - title: Contact
     url: mailto:you@example.com
