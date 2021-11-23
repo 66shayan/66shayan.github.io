@@ -9,9 +9,9 @@
 <div class="flex w-100 mt2 lh-copy bt b--light-gray pv3">
   <div>
     {% if author.url contains "://" %}
-      <a href="https://66shayan.github.io/about/" target="_blank"><img src=""/assets/images/author.jpg"" alt="Shayan Tawabi" class="w2 h2 w3-ns h3-ns br-100"></a>
+      <a href="https://66shayan.github.io/about/" target="_blank"><img src="/assets/images/author.jpg" alt="Shayan Tawabi" class="w2 h2 w3-ns h3-ns br-100"></a>
     {% else %}
-      <a href="{{ author.url | relative_url }}"><img src="{{ author.picture | relative_url }}" alt="{{ author.name }}" class="w2 h2 w3-ns h3-ns br-100"></a>
+      <a href="https://66shayan.github.io/about/"><img src="/assets/images/author.jpg" alt="Shayan Tawabi" class="w2 h2 w3-ns h3-ns br-100"></a>
     {% endif %}
   </div>
 
