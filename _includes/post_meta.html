@@ -10,24 +10,24 @@
   <div class="flex w-100 mt4 lh-copy">
     <div class="pt1 pt0-ns">
       {% if author.url contains "://" %}
-        <a href="{{ author.url }}" target="_blank"><img src="{{ author.picture | relative_url }}" alt="{{ author.name }}" class="w2 h2 w3-ns h3-ns br-100"></a>
+        <a href="https://66shayan.github.io/about/" target="_blank"><img src="/assets/images/author.jpg" alt="Shayan Tawabi" class="w2 h2 w3-ns h3-ns br-100"></a>
       {% else %}
-        <a href="{{ author.url | relative_url }}"><img src="{{ author.picture | relative_url }}" alt="{{ author.name }}" class="w2 h2 w3-ns h3-ns br-100"></a>
+        <a href="https://66shayan.github.io/about/"><img src="/assets/images/author.jpg" alt="Shayan Tawabi" class="w2 h2 w3-ns h3-ns br-100"></a>
       {% endif %}
     </div>
 
     <div class="flex flex-column w-90 w-80-ns pl2 pl3-ns">
       <div class="flex items-center">
         {% if author.url contains "://" %}
-        <a class="f5 fw4 lh-title black-80 hover-black-80 link mr2" href="{{ author.url }}" target="_blank">{{ author.name }}</a>
+        <a class="f5 fw4 lh-title black-80 hover-black-80 link mr2" href="https://66shayan.github.io/about/" target="_blank">Shayan Tawabi</a>
         {% else %}
-        <a class="f5 fw4 lh-title black-80 hover-black-80 link mr2" href="{{ author.url | relative_url }}">{{ author.name }}</a>
+        <a class="f5 fw4 lh-title black-80 hover-black-80 link mr2" href="https://66shayan.github.io/about/">Shayan Tawabi</a>
         {% endif %}
 
         {% if author.cta_url contains "://" %}
-        <a class="f6 fw4 lh-copy link nested-author-cta ba br-pill ph2" href="{{ author.cta_url }}" target="_blank">{{ author.cta | default: "Follow" }}</a>
+        <a class="f6 fw4 lh-copy link nested-author-cta ba br-pill ph2" href="https://twitter.com/ShayanTawabi" target="_blank">{{ author.cta | default: "Follow" }}</a>
         {% else %}
-        <a class="f6 fw4 lh-copy link nested-author-cta ba br-pill ph2" href="{{ author.cta_url | relative_url }}">{{ author.cta | default: "Follow" }}</a>
+        <a class="f6 fw4 lh-copy link nested-author-cta ba br-pill ph2" href="https://twitter.com/ShayanTawabi">{{ author.cta | default: "Follow" }}</a>
         {% endif %}
       </div>
 
