@@ -5,6 +5,7 @@ date: 2021-01-11 13:20:50
 author: Shayan Tawabi
 categories:
   - Life
+comment: false
 ---
 
 Be out of comfort zone every day! Push yourself! Pressure yourself etc. These kind of things you hear everyday on youtube and social media!
