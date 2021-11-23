@@ -42,8 +42,8 @@ collections:
 # Navigation Menus
 header_navigation:
 
-  - title: Themes
-    url: https://desiredpersona.com/themes/
+  - title: Home
+    url: /
 
   - title: Blog
     url: /archive/
