@@ -2,7 +2,7 @@
 
 Desired Persona:
   name          : "Shayan Tawabi"
-  picture       : "https://desiredpersona.github.io/minimal-jekyll-theme/assets/images/author.jpg"
+  picture       : "/assets/images/author.jpg"
   url           : "https://66shayan.github.io/about/"
   email         : "sixtysix(in numbers)+Shayan+@+Gmail.com"
   bio           : "Marketing and Digital Guy!"
