@@ -23,8 +23,8 @@ email: "sixtysix(in NUMbers)+Shayan+@+Gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   I am Shayan and I talk about Marketing, Tech and Business
   here... Let's Connect on Social ;)
-baseurl: "/archive/" # the subpath of your site, e.g. /blog
-url: "https://66shayan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://66shayan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShayanTawabi
 github_username:  66shayan
 
