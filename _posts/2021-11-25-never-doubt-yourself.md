@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Never Doubt Yourself, Ever
+title: Have Faith So Strong That You Never Doubt Yourself, Ever
 date: 2021-11-25 13:20:50
 author: Shayan Tawabi
 categories:
