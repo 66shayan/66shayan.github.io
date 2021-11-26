@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Shayan Tawabi. Call me Shayan. I am a Marketing Director and an all around Mid to Large level (+200 people) Startup guy. I have extensive experience at eCommerce Startups and good expertise at AdTech and Media Startups. I love product thinking also and besides Marketing, I try to have a grasp knowledge in the other fields such as Product Management, Sales, Leadership, Content and Digital Tools.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Connect with me at [My Twitter](https://twitter.com/ShayanTawabi) or [Instagram](https://instagram.com/66shayan)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for being around my website.
+Have Faith!
