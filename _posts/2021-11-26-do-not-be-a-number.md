@@ -29,4 +29,5 @@ Define your plan for the next month and go execute. Never even look back again!
 Never allow yourself to be a number in a spreadsheet. Or worst never even allow someone else to look at you as another number in their spreadsheet. Because numbers always change!
 You are a human. A number is just a number and it has it's uses. Not more than that.
 
+
 Have Faith!
