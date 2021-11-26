@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: minimal-jekyll-theme
+permalink: /:title/
 title: Shayan's Blog
 email: "sixtysix(in NUMbers)+Shayan+@+Gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,8 +26,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   here... Let's Connect on Social ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://66shayan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author      : Shayan Tawabi
 twitter_username: ShayanTawabi
 github_username:  66shayan
+date_format : "%-d %b %Y"
+port        : 5000
 
 # Build settings
 theme: minima
@@ -38,7 +42,21 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+    
+markdown: kramdown
+kramdown:
+    input: GFM
+    hard_wrap: false
+    syntax_highlighter: rouge
 
+# Include/Exclude filetypes
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
 # Navigation Menus
 header_navigation:
 
@@ -52,7 +70,7 @@ header_navigation:
     url: /about/
 
   - title: Contact
-    url: mailto:you@example.com
+    url: mailto:xhayan@gmail.com
 
 footer_navigation:
   - title: privacy
