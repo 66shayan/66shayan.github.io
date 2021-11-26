@@ -17,7 +17,7 @@ But they are not your religion! If it happens (and it will happen) that you don'
 
 Do not NEVER beat yourself up or let anyone else diminish your skills and your self confidence because of a fucking number in a spreadsheet!
 
-Simply sit down and review the situation.
+Simply sit down and review the situation...
 - Why you did not hit your goal?
 - Was it under your control?
 - Did you gave it your best?
