@@ -4,15 +4,29 @@ title:  Do NOT Be A Number!
 subtitle: Do Not Allow Yourself To Be Another Number In A Spreadsheet
 date:   2021-11-26 20:05:50 +0100
 author: Shayan Tawabi
-class: 
-  - bg-dark-gray
 categories:
   - life
   - business
 ---
 
-To add a subtitle to any blog post, simply add `subtitle: Your subtitle text goes here` in that posts YAML front-matter.
+KPIs and Goals are a means of keeping track of your progress. To see if you are moving in a right direction or not. To make sure you are setting the right priorities. To have an aim to shoot for and to not waste your arrows!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et nibh orci. Donec posuere, urna sit amet hendrerit pellentesque, massa ex commodo lorem, vel euismod mauris justo a tortor. Nunc nec eros lacus. Curabitur quis massa non neque viverra viverra. Integer feugiat lorem non velit fermentum efficitur. Cras id turpis sed ipsum egestas hendrerit consequat vel elit. Pellentesque eros sem, bibendum tempus felis ac, molestie auctor lacus. In hac habitasse platea dictumst. Nulla facilisi. Nullam mattis dui sit amet diam luctus venenatis. Donec sed pulvinar dolor. Sed purus dui, pellentesque in dolor quis, volutpat euismod nibh.
+Everybody needs a Goal. Measurable one.
 
-Vivamus fermentum auctor neque, a posuere felis. Vivamus vel tempor turpis, vel rutrum risus. Duis est diam, porta quis lorem id, hendrerit euismod nisi. Duis vel convallis odio. Praesent at ipsum suscipit, efficitur tellus et, laoreet justo. Aliquam erat volutpat. Aliquam erat volutpat. Suspendisse eu pretium eros. Duis ac pulvinar ante, id mollis elit. Donec pretium non ex ut volutpat. Maecenas convallis diam sed elementum gravida. Aenean imperdiet eu nisi nec dignissim. Nunc massa augue, ornare nec nisi id, bibendum maximus lectus. Sed ultrices risus sit amet purus tempus malesuada. Suspendisse potenti.
+But they are not your religion! If it happens (and it will happen) that you don't hit one or two of them in a month, that does not mean you suck! That does not allow you or anybody else to diminish your skills and your worth. You already know that you gave it your best and not everything was under your control in the first place.
+
+Do not NEVER beat yourself up or let anyone else diminish your skills and your self confidence because of a fucking number in a spreadsheet!
+
+Simply sit down and review the situation.
+Why you did not hit your goal?
+Was it under your control?
+Did you gave it your best?
+What went wrong?
+What you can do about it?
+
+Define your plan for the next month and go execute. Never even look back again!
+
+Never allow yourself to be a number in a spreadsheet. Or worst never even allow someone else to look at you as another number in their spreadsheet. Because numbers always change!
+You are a human. A number is just a number and it has it's uses. Not more than that.
+
+Have Faith!
