@@ -7,8 +7,6 @@ author: Shayan Tawabi
 categories:
   - life
   - business
- class: 
-  - bg-light-gray
 ---
 
 To add a subtitle to any blog post, simply add `subtitle: Your subtitle text goes here` in that posts YAML front-matter.
