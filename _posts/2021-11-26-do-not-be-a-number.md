@@ -4,6 +4,8 @@ title:  Do NOT Be A Number!
 subtitle: Do Not Allow Yourself To Be Another Number In A Spreadsheet
 date:   2021-11-26 20:05:50 +0100
 author: Shayan Tawabi
+class: 
+  - bg-light-gray
 categories:
   - life
   - business
