@@ -32,9 +32,6 @@ github_username:  66shayan
 date_format : "%-d %b %Y"
 port        : 5000
 
-# Build settings
-theme: minima
-
 ################################
 # Theme Settings
 ################################
