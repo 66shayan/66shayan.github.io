@@ -6,6 +6,8 @@ date:   2021-11-28 20:05:50 +0100
 author: Shayan Tawabi
 categories:
   - management
+tags: 
+  - management
 ---
 
 One of the important reasons new managers fail is because they become overwhelemd. Some may call it a "Burn Out". They have great responsibilities, the boss is
