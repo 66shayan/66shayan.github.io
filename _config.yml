@@ -53,9 +53,9 @@ kramdown:
 include:
   - _pages
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#exclude:
+ # - Gemfile
+ # - Gemfile.lock
   
 # Navigation Menus
 header_navigation:
