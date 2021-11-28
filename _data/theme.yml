@@ -50,7 +50,7 @@ google_plus_icon  : true
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: desired-persona-dev
+    shortname: 66shayan
 
 
 ################################
@@ -66,7 +66,7 @@ text:
     caption           : Image
 
     # Home Layout Settings
-    post_limit        : 3
+    post_limit        : 5
     read_more         : Read more
     latest_articles   : Recent Posts
     full_archive      : All Posts
