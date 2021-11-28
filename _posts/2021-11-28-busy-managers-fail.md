@@ -11,7 +11,7 @@ categories:
 One of the important reasons new managers fail is because they become overwhelemd. Some may call it a "Burn Out". They have great responsibilities, the boss is
 super demanding and there is a lot of work to do that one can not handle to do them all. You simply become bombarded with a lot of tasks and emotional responsibilities that gradually it goes out of hand.
 
-The first step is to realise that it is YOUR fault and you are causing it. **It is not a delegation problem. It is a mind problem.
+The first step is to realise that it is YOUR fault and you are causing it. ***It is not a delegation problem. It is a mind problem.***
 
 
 Your mind gradually becomes louader and loader and you don't give them enough quite time to absorb the events, think through problems, come up with strategies and set you priorities (In writing not in your head).
