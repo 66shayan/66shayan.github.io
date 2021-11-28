@@ -115,10 +115,6 @@ sass:
     sass_dir: _sass
     style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# Include/Exclude filetypes
-include:
-  - _pages
-
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
@@ -182,8 +178,9 @@ jekyll-archives:
      - year
      - month
      - day
-  layout: 'archive'
-  permalinks:
+     
+layout: 'archive'
+permalinks:
     year: '/:year/'
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
