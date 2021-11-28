@@ -14,11 +14,11 @@ super demanding and there is a lot of work to do that one can not handle to do t
 The first step is to realise that it is YOUR fault and you are causing it. ***It is not a delegation problem. It is a mind problem.***
 
 
-Your mind gradually becomes louader and loader and you don't give them enough quite time to absorb the events, think through problems, come up with strategies and set you priorities (In writing not in your head).
+Your mind gradually becomes louder and louder and you don't give it enough quite time to absorb the events, think through problems, come up with strategies and set you priorities.
 
-Once you allow youself to have enough time to quite your mind and WRITE your daily priorities and plans then everything else falls into place. If you need to have a difficult conversation with your boss about it go do it. If you need an assistant to organize your meetings and events, make sure you have it. If you need more time at night to set priorities ans schedules for the next day, make sure you have enough time for it.
+Once you allow youself to have enough time to quite your mind and **write** your daily priorities and plans then everything else falls into place. If you need to have a difficult conversation with your boss about it go do it. If you need an assistant to organize your meetings and events, make sure you have it. If you need more time at night to set priorities and schedules for the next day, make sure you have enough time for it.
 
-This simple thing of allowing your mind to be quite and think above things will assure your happy life and success.
+This simple thing of allowing your mind to be quite and think above things will guarantee your happy and successfull life as a manager.
 
 
 Have Faith!
