@@ -15,7 +15,7 @@ You must have a formula for your growth.
 First, pick your most important KPI. Let's assume it is "Sales Orders". Then figure out exactly what needed to be done (In terms of actions and numbers) to increase your Sales Orders.
 For example, you may figure out, the more Phone Calls you make, the more Customers you talk to, the more Sales Orders you will have as a result. Or the more Traffic you bring to your website, the more Sales Orders you will have. There you have another KPI to measure and act on. Phone Calls... Website Traffic... etc.
 
-You get the idea and it is that simple.
+You get the idea.
 The only thing is you need to figure out your KPIs and action in detail, for everyone in your team and then commit to doing it. If you know that you need to increase your website traffic, then don't hesitate! Even if you have to pay money for advertising, that money will come back to you. So don't be afraid to spend money where you know you will get results. 
 
 
