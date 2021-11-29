@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 theme: minimal-jekyll-theme
 permalink: /:title/
-title: Shayan's Blog
+title: "Shayan's Blog"
 email: "sixtysix(in NUMbers)+Shayan+@+Gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   I am Shayan Tawabi and I talk about Marketing, Tech and Business
@@ -48,7 +48,7 @@ kramdown:
 
 # Include/Exclude filetypes
 include:
-  - pages
+  - _pages
 
 #exclude:
  # - Gemfile
@@ -70,10 +70,10 @@ header_navigation:
     url: mailto:xhayan@gmail.com
 
 footer_navigation:
-  - title: privacy
+  - title: Privacy
     url: /privacy/
 
-  - title: terms
+  - title: Terms
     url: /terms/
 
 # UI Default Text
@@ -85,7 +85,7 @@ text:
   undefined_wpm     : Undefined parameter text.words_per_minute in your config.yml file
   caption           : Image	           # Header image caption
   post_heading      : Latest Posts     # Latest posts heading
-  post_limit        : 3                # Show this many latest post on your homepage
+  post_limit        : 5                # Show this many latest post on your homepage
   blog_limit	      : 10               # Show this many post on the blog
   read_more         : Read more        # Read more link
   blog_title        : All Posts        # Archives link title
@@ -146,11 +146,11 @@ social:
   name: Shayan Tawabi
   links:
     - https://twitter.com/ShayanTawabi
-    - https://plus.google.com/u/0/+ShayanTawabi
+    - https://instagram.com/66shayan
     - https://www.facebook.com/ShayanTawabi
 
 twitter:
-  username: Shayan Tawabi
+  username: ShayanTawabi
 
 facebook:
   app_id:
@@ -183,47 +183,3 @@ permalinks:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
-    
-    # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /category/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-category_archive:
-  type: jekyll-archives
-  path: /categories/
-tag_archive:
-  type: jekyll-archives
-  path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
