@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Grow? Predictably.
-date: 2021-11-19 13:20:50
+date: 2021-11-29 13:20:50
 author: Shayan Tawabi
 categories:
   - business
