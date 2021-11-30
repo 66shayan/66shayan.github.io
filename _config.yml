@@ -35,6 +35,9 @@ port        : 5000
 ################################
 # Theme Settings
 ################################
+
+theme: minima
+
 collections:
   docs:
     output: true
