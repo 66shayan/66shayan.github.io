@@ -28,8 +28,7 @@ Often you do it based on the potential of those channels, CPA (Cost Per Acquisit
 channels based on their efficiency.
 
 
- 
 
-Basically, You will spend your Budget on your **best channeluntil it has the ability to produce customers or users with a certain CPA**. Even if it requires all the budget. Only when the channel is at full capacity, and you can no longer get new users with logical CPA you will start spending on the second channel. And then thirsd and forth channel...
+Basically, **You will spend your Budget on your best channel until it has the ability to produce customers and capture all the demand within our CPA goal**. Even if it requires all the budget. Only when the channel is at full capacity and you can no longer get new users with our desired CPA, you will start spending on the second channel. And then third and forth channel...
 
 You get the idea. What Budgeting Model you use for your Digital Media Buying?
