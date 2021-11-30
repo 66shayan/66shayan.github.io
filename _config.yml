@@ -183,3 +183,7 @@ permalinks:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+    
+    - name: Jekyll Deploy Action
+  uses: jeffreytse/jekyll-deploy-action@v0.3.1
+
