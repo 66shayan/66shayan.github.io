@@ -71,6 +71,3 @@ text:
     latest_articles   : Recent Posts
     full_archive      : All Posts
     full_archive_url  : /archive/
-
-name: Jekyll Deploy Action
-  uses: jeffreytse/jekyll-deploy-action@v0.3.1
