@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Waterfall Budgeting! (For Paid Media)
+title:    Waterfall Media Budgeting!
 subtitle: How To Allocate Budget To Different Digital Channels?
 date:     2021-11-30 13:20:50 +0100
 author: Shayan Tawabi
@@ -23,10 +23,13 @@ How much for Google Ads, How much for Display Ads, How much for Social Media Adv
 
  
 
-Often you do it based on the potential of those channels, CPA (Cost Per Acquisition) and ROAS (Return On Ad Spend). But let's define the "Channel Potential" with a simple model! Waterfall budgeting model is one of the best models when it comes to Digital Media Budget Allocation. 
+Often you do it based on the potential of those channels, CPA (Cost Per Acquisition) and ROAS (Return On Ad Spend). But let's define the "Channel Potential" with a simple model! Waterfall budgeting model is one of the best models when it comes to Digital Media Budget Allocation.
+>A waterfall methodology allocates budget to different 
+channels based on their efficiency.
+
 
  
 
-- Basically, You will spend your Budget on your **best channel** ***until it has the ability to produce customers or users with a certain CPA***. Even if it requires all the budget. Only when the channel is at full capacity, and you can no longer get new users with logical CPA you will start spending on the second channel. And then thirsd and forth channel...
+Basically, You will spend your Budget on your **best channeluntil it has the ability to produce customers or users with a certain CPA**. Even if it requires all the budget. Only when the channel is at full capacity, and you can no longer get new users with logical CPA you will start spending on the second channel. And then thirsd and forth channel...
 
 You get the idea. What Budgeting Model you use for your Digital Media Buying?
