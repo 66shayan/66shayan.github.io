@@ -14,7 +14,7 @@ header:
 categories:
     - marketing
 tags:
-    - header
+    - marketing
 ---
 
 When you do a lot of Paid Advertising for your business, you need to know how you are going to dedicate your budget to different channels. 
