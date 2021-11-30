@@ -26,7 +26,8 @@ How much for Google Ads, How much for Display Ads, How much for Social Media Adv
 Often you do it based on the potential of those channels, CPA (Cost Per Acquisition) and ROAS (Return On Ad Spend). But let's define the "Channel Potential" with a simple model! Waterfall budgeting model is one of the best models when it comes to Digital Media Budget Allocation.
 >A waterfall methodology allocates budget to different 
 channels based on their efficiency.
-
+>
+> --- <cite>Google!</cite>
 
 
 Basically, **You will spend your Budget on your best channel until it has the ability to produce customers and capture all the demand within our CPA goal**. Even if it requires all the budget. Only when the channel is at full capacity and you can no longer get new users with our desired CPA, you will start spending on the second channel. And then third and forth channel...
