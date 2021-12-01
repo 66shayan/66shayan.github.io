@@ -3,8 +3,7 @@ layout: post
 title: Being Out of Comfort Zone is BullShit!
 date: 2021-01-11 13:20:50
 author: Shayan Tawabi
-categories:
-  - Life
+categories: life
 ---
 
 Be out of comfort zone every day! Push yourself! Pressure yourself etc. These kind of things you hear everyday on youtube and social media!
