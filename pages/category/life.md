@@ -1,5 +1,6 @@
 ---
 layout: page
 title: "life" Category 
-permalink: /category/life/
+permalink: '/category/life/'
 ---
+hibhh
