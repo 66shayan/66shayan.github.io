@@ -4,10 +4,10 @@ title: 'life Category'
 permalink: '/category/life/'
 category: life
 ---
-{% for category in site.category %}
-  <h3>{{ category[1] }}</h3>
+{% for categories in site.categories %}
+  <h3>{{ categories[1] }}</h3>
   <ul>
-    {% for post in category[1] %}
+    {% for post in categories[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
