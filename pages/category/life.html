@@ -10,6 +10,7 @@ categories: 'life'
 {% for post in site.categories.life %}
    <article class="f5 lh-copy fw3 bb b--light-gray">
 
- <div class="f6 fw6 lh-title ttu tracked mv4"><time>{{ post.date | date_to_string }}</time></div> &nbsp; <a class="link black-80 hover-silver" href="{{ post.url }}">{{ post.title }}</a>
+ <div class="f6 fw6 lh-title ttu tracked mv4"><time>{{ post.date | date_to_string }}</time></div>
+     <h3 class="f3 fw6 lh-title mb0"><a class="link black-80 hover-silver" href="{{ post.url }}">{{ post.title }}</a></h3>
       </article>
 {% endfor %}
