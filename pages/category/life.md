@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "life" Category 
+title: 'life Category'
 permalink: '/category/life/'
 ---
 hibhh
