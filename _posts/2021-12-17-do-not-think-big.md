@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DO NOT THINK BIG! (Think Small)
-date: 2021-12-18 10:30:00
+date: 2021-12-17 10:30:00
 author: Shayan Tawabi
 categories: life
 ---
