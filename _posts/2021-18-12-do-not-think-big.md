@@ -15,7 +15,9 @@ The problem with thinking big is that most of the people have no clue how it's g
 
 
 Warren Buffet once in an interview said:
-"If you are a guy without job and money, Don't aim for 1 million dollars. Instead, aim for getting a job first and go from there...".
+>"If you are a guy without job and money, Don't aim for 1 million dollars. Instead, aim for getting a job first and go from there...".
+>
+> --- <cite>Warren Buffet</cite>
 
 Don't try to think big. Think about your next step and focus on reaching the goal that is within reach. When you get there then set your next goal. 
 
