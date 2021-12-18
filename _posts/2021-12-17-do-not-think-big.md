@@ -11,11 +11,11 @@ Listen, everybody is trying to tell you how to think and what to believe. Be car
 
 If you are going to believe something, first, try to understand it and then believe it if you want. 
 
-The problem with thinking big is that most of the people have no clue how it is going to help them grow. Thinking or dreaming big does not manifest anything into our real life. Try to sit and think about a big house, with 10 cars, pools, 5 jets... etc. You may only get a good feeling for a moment and then it ends. 
+The problem with thinking big is that most people have no clue how it is going to help them grow. Thinking or dreaming big does not manifest anything into our real life. Try to sit and think about a big house, with 10 cars, pools, 5 jets... etc. You may only get a good feeling for a moment and then it ends. 
 
 
 Warren Buffet once in an interview said:
->"If you are a guy without job and money, Don't aim for 1 million dollars. Instead, aim for getting a job first and go from there...".
+>"If you are a guy without a job and money, Don't aim for 1 million dollars. Instead, aim for getting a job first and go from there...".
 >
 > --- <cite>Warren Buffet</cite>
 
@@ -29,7 +29,7 @@ A small goal, hard but reachable, you are on the way to reach it and you just ne
 
 Nothing is more powerful than that. 
 
-When you get used to that and you start getting momentum, then you can start setting bigger goals and think bigger. Because you already know how goal setting works for you. I am not against thinking big and dreaming big. But it is not good advice for someone who is at the starting line and his mindset still needs training. 
+When you get used to that and you start getting momentum, then you can start setting bigger goals and thinking bigger. Because you already know how goal setting works for you. I am not against thinking big and dreaming big. But it is not good advice for someone who is at the starting line and his mindset still needs training. 
 
 I can tell you one thing. If you don't have STRONG FEELINGS about your goal and you don't think and get hyped about it everyday, that is NOT the right goal. Set a goal that starts FIRE in you. And most of the time, fire does not come from a big and unreachable goal. 
 
