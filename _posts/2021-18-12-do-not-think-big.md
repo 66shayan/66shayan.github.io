@@ -11,7 +11,7 @@ Listen, everybody is trying to tell you how to think and what to believe. Be car
 
 If you are going to believe something, first, try to understand it and then believe it if you want. 
 
-The problem with thinking big is that most of the people have no clue how it's going to help them grow. Thinking or dreaming big does not manifest anything into our real life. Try to sit and think about a big house, with 10 cars, pools, 5 jets... etc. You may only get a good feeling for a moment and then it ends. 
+The problem with thinking big is that most of the people have no clue how it is going to help them grow. Thinking or dreaming big does not manifest anything into our real life. Try to sit and think about a big house, with 10 cars, pools, 5 jets... etc. You may only get a good feeling for a moment and then it ends. 
 
 
 Warren Buffet once in an interview said:
