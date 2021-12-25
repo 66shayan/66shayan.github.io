@@ -7,7 +7,7 @@ categories: life
 ---
 Audio Is In Persian – ⬇ English Transcript Below ⬇
 {: .alert .alert--info}
-<p text-align="justify">
+
 **The Inside Order Podcast, Season 1 Episode 1**: How To Take Control Of Your Life (Know Yourself First)
 <iframe src="https://open.spotify.com/embed/episode/5KaSuUknaXBqxrVia96dqz?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
@@ -42,4 +42,3 @@ The key element to start the process of knowing yourself is observation. You nee
 Start observing and analyzing. Start the process of knowing ourselves today. And in future posts and podcasts, we will talk about how to set goals, how to achieve goals, how to enjoy yourself, and everything in between. 
  
 Have Faith! 
- </p>
