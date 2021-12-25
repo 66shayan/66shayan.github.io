@@ -14,6 +14,7 @@ In this podcast i talk about how we can take control of our life, and make the p
 
 ## How To Take Control Of Your Life (Know Yourself First) – English Transcript
 You want to grow and make your dreams a reality. Right? 
+
 Do you remember the first time that you wanted to achieve a goal? For example, you wanted to get a job that you loved. The process was like this: First somehow (By seeing something, talking about something, looking at someone or a random event happened... ) something happened inside you. That event inspired you to dream about that job; learn about that career and company. And you focused on that goal of getting the job. You focused, learned, and put your head into it until... you finally got the job. 
  
 But all that process happened subconsciously. It was not entirely under your control. You have not planned the steps exactly to get that job. Something FIRED UP inside you, you pursued the dream of having that job and got it. 
