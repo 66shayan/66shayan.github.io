@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Inside Order Podcast, How To Take Control Of Your Life (Know Yourself First)
-date: 2021-12-25 13:30:00
+date: 2021-12-24 13:30:00
 author: Shayan Tawabi
 categories: life
 ---
