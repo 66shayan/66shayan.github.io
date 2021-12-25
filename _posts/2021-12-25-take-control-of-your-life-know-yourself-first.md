@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Persian] **The Inside Order Podcast**: How To Take Control Of Your Life (Know Yourself First)
+title: [Persian] The Inside Order Podcast: How To Take Control Of Your Life (Know Yourself First)
 date: 2021-12-17 10:30:00
 author: Shayan Tawabi
 categories: life
