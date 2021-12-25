@@ -1,11 +1,12 @@
 ---
 layout: post
-title: The Inside Order Podcast, How To Take Control Of Your Life (Know Yourself First)
+title: How To Take Control Of Your Life (Know Yourself First) – The Inside Order Podcast S1 E1
 date: 2021-12-24 13:30:00
 author: Shayan Tawabi
 categories: life
 ---
 Audio Is In Persian – English Transcript Below.
+
 **The Inside Order Podcast, Season 1 Episode 1**: How To Take Control Of Your Life (Know Yourself First)
 <iframe src="https://open.spotify.com/embed/episode/5KaSuUknaXBqxrVia96dqz?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
