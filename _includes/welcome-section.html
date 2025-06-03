@@ -1,0 +1,13 @@
+<!-- Welcome Section -->
+<section class="welcome-page">
+    <div class="container">
+        <div class="welcome-logo">
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }}" width="80" height="80">
+        </div>
+        <h1 class="welcome-title">{{ site.title }}</h1>
+        <p class="welcome-description">{{ site.description }}</p>
+        <p class="welcome-author">نویسنده: {{ site.author.name }}</p>
+        <p class="welcome-stats">{{ site.subscribers | default: '۱۲۳' }} مشترک</p>
+        <button class="subscribe-btn">اشتراک رایگان</button>
+    </div>
+</section>

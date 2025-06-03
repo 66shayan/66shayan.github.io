@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<!-- Welcome Page -->
+{% include welcome-section.html %}
+
+<!-- Homepage -->
+<section class="homepage">
+    <div class="container">
+        <ul class="post-list">
+            {% for post in site.posts %}
+                {% include post-list-item.html %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>

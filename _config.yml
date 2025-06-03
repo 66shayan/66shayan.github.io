@@ -1,0 +1,36 @@
+# Site settings
+title: "وبلاگ مینیمال"
+title_en: "Minimal Blog"
+description: "یک وبلاگ مینیمال با طراحی ساده و زیبا برای نوشته‌های فارسی"
+description_en: "A minimal blog with simple and beautiful design for Persian writings"
+baseurl: ""
+url: ""
+
+# Author information
+author:
+  name: "نام نویسنده"
+  name_en: "Author Name"
+  email: "info@example.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+direction: rtl
+lang: fa
+
+# Theme customization
+theme_color: "#ff6719"
+text_color: "#222"
+light_text: "#757575"
+background_color: "#fff"
+border_color: "#e6e6e6"
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap

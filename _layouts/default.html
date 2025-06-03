@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "fa" }}" dir="{{ site.direction | default: "rtl" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    {% if site.google_analytics %}
+    {% include google-analytics.html %}
+    {% endif %}
+</head>
+<body>
+    <!-- Header -->
+    {% include header.html %}
+
+    <!-- Main Content -->
+    {{ content }}
+
+    <!-- Footer -->
+    {% include footer.html %}
+</body>
+</html>
