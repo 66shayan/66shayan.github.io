@@ -34,3 +34,9 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  
+# Css update
+  sass:
+  sass_dir: _sass
+  style: compressed
+
