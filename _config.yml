@@ -6,7 +6,6 @@ description_en: "A minimal blog with simple and beautiful design for Persian wri
 baseurl: ""
 url: "https://66shayan.github.io"
 
-
 # Author information
 author:
   name: "نام نویسنده"
@@ -35,9 +34,8 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-  
+
 # Css update
-  sass:
+sass:
   sass_dir: _sass
   style: compressed
-
